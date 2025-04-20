@@ -1,0 +1,2 @@
+# COMPRESS
+compress images
